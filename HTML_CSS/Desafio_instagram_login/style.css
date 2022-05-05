@@ -23,10 +23,6 @@ body {
     width: 600px;
 }
 
-.instagram_phone {
-    /* width: 50%; */
-}
-
 .instagram_login {
     display: flex;
     align-items: center;
